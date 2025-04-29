@@ -1,14 +1,15 @@
 # 🧠 Brain Tumor Detection with Convolutional Neural Network (CNN)
 
-# 🔗 GitHub Repository: https://github.com/Bayu-Prasetyo0301/Brain-Tumor-Detections-With-CNN.git
+# 🔗 GitHub Repository: 
+https://github.com/Bayu-Prasetyo0301/Brain-Tumor-Detections-With-CNN.git
 
 # 📌 Overview
 Brain Tumor Detection with CNN adalah proyek Deep Learning yang bertujuan untuk mengklasifikasikan citra MRI otak ke dalam dua kategori: Tumor dan Non-Tumor. Model ini menggunakan arsitektur Convolutional Neural Network (CNN) untuk mengenali pola visual dari citra dan melakukan klasifikasi otomatis, membantu dalam proses diagnosis medis secara cepat dan akurat.
 
 # ⚙️ Project Workflow
 
-# 🗂️ Dataset Preparation
-📁 Citra MRI dikumpulkan dan diklasifikasikan ke dalam dua kelas: tumor detected dan no tumor detected.
+🗂️ Dataset Preparation
+Citra MRI dikumpulkan dan diklasifikasikan ke dalam dua kelas: tumor detected dan no tumor detected.
 
 🧮 Citra diubah ke format array dan dilabeli secara biner (0 = non-tumor, 1 = tumor).
 
@@ -53,19 +54,16 @@ Menggunakan sigmoid untuk klasifikasi biner
 
 # 🧠 Tech Stack & Libraries
 
-<img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="TensorFlow" width="30"/>
+![Uploading image.png…]()
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="30"/>
+# Hasil (Result)
 
-<img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="Matplotlib" width="30"/>
+![Uploading image.png…]()
 
-<img src="https://seeklogo.com/images/O/opencv-logo-61F1E4B889-seeklogo.com.png" alt="OpenCV" width="30"/>
+![Uploading image.png…]()
 
-<img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" width="30"/>
+![Uploading image.png…]()
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/06/PIL_logo.svg" alt="PIL" width="30"/>
+![Uploading image.png…]()
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Colab" width="30"/>
-
-# HASIL
 
