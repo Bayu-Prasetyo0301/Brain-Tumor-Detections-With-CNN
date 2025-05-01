@@ -1,6 +1,6 @@
 # 🧠 Brain Tumor Detection With Convolutional Neural Network (CNN)
 
-# 🔗 GitHub Repository: 
+# 🔗 GitHub Repository:
 https://github.com/Bayu-Prasetyo0301/Brain-Tumor-Detections-With-CNN.git
 
 # 📌 Overview
