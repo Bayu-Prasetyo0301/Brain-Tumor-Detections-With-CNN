@@ -15,9 +15,7 @@ Citra MRI dikumpulkan dan diklasifikasikan ke dalam dua kelas: tumor dan non tum
 
 # 🔀 Dataset dibagi menjadi:
 
-🏋️ Training Set: 80%
-
-🧪 Validation Set
+🏋️ Training Set + 🧪 Validation Set : 80%
 
 🧭 Test Set: 20%
 
